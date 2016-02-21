@@ -1,0 +1,28 @@
+name: Anantlife.com
+favicon: null
+layout_spectrum: 0.7445433696266264
+typography_spectrum: 0.9645673483610153
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.49977455637417734
+  lightness: 0.5865874700248241
+  saturation: 0.6858940557576716
+  rhythmicContrast: 0.2957154761534184
+purpose: []
